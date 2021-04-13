@@ -11,6 +11,9 @@ const Nav = () => {
                 <Link to='/formpage'>
                     <li>Form</li>
                 </Link>
+                <Link to='/reactrouter'>
+                    <li>React Router</li>
+                </Link>
 
 
             </ul>
